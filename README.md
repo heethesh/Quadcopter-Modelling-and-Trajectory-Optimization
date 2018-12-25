@@ -1,8 +1,16 @@
 # Quadcopter Modelling and Trajectory Optimization
-This is the Aerial Mobility Project for 16-665 Robot Mobility in Air, Land, and Sea (Fall 2018) at Carnegie Mellon University.
+This is the Air Mobility Project for 16-665 Robot Mobility in Air, Land, and Sea (Fall 2018) at Carnegie Mellon University.
 Instructor for Air Mobility: Nathan Michael
 
 This repository is a fork from my original repository [here](https://github.com/heethesh/16-665-Robot-Mobility).
+
+## Objectives
+- Develop the quadcopter model (and state-space version) and implement PID and LQR based feedback contollers.
+- Develop a basic state machine to facilitate simulation that enables the robot to takeoff, hover, track a trajectory, and land.
+- Introduce time-parameterized trajectories given fixed initial and final endpoint constraints and bounded velocity and acceleration.
+- Extend the formulation to include piecewise continuous trajectories with fixed initial and final endpoint constraints.
+- Evaluate tracking performance given different levels of flight performance and trajectory design (from slow to fast, straight and curved paths).
+- Exploit the concepts and implementations developed through the previous exercises to achieve high-performance flight. 
 
 ## CMU Academic Integrity Policy
 If you are currently enrolled in this course, please refer to Carnegie Mellon University Policy on Academic Integrity [here](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html) before referring to the any of the repository contents.
