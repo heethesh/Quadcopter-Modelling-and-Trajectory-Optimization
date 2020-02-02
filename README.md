@@ -17,17 +17,17 @@ If you are currently enrolled in this course, please refer to Carnegie Mellon Un
 
 ## Blender Simulation
 ### Quadrotor Pirouette
-![blender](https://raw.githubusercontent.com/heethesh/Quadcopter-Modelling-and-Trajectory-Optimization/master/report/images/Pirouette-01.PNG "Quadrotor Pirouette")
+![blender](report/images/Pirouette-01.PNG?raw=true "Quadrotor Pirouette")
 
 ### Quadrotor Flip
-![blender](https://raw.githubusercontent.com/heethesh/Quadcopter-Modelling-and-Trajectory-Optimization/master/report/images/Free-Skate-02.PNG "Quadrotor Flip")
+![blender](report/images/Free-Skate-02.PNG?raw=true "Quadrotor Flip")
 
 ### Quadrotor Fly-Through-Ring
-![blender](https://raw.githubusercontent.com/heethesh/Quadcopter-Modelling-and-Trajectory-Optimization/master/report/images/Free-Skate-01.PNG "Quadrotor Fly-Through-Ring")
+![blender](report/images/Free-Skate-01.PNG?raw=true "Quadrotor Fly-Through-Ring")
 
 ## Quadcopter Model
-![model](https://raw.githubusercontent.com/heethesh/Quadcopter-Modelling-and-Trajectory-Optimization/master/report/images/Quadcopter-Model-01.png "Quadrotor Controller Model")
+![model](report/images/Quadcopter-Model-01.png?raw=true "Quadrotor Controller Model")
 
 ## Flowchart
-![flowchart](https://raw.githubusercontent.com/heethesh/Quadcopter-Modelling-and-Trajectory-Optimization/master/report/images/Software-Model-01.png "Software Flowchart")
+![flowchart](report/images/Software-Model-01.png?raw=true "Software Flowchart")
 
